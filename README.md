@@ -1,8 +1,6 @@
 <h1 align="center">👨‍💻 Saroj Kumar Ranjan</h1>
 
-<div align="center">
-  <img src="https://img.freepik.com/free-photo/retro-digital-art-illustration-person-using-radio-technology_23-2151355979.jpg?t=st=1740683454~exp=1740687054~hmac=fa0fdd99da248c29d461b51eb0448edf604c0e0945af9959c7a5f899a6768803&w=1380" alt="Saroj Kumar Ranjan - Full Stack Developer" width="800"/>
-</div>
+
 
 <h3 align="center">Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
