@@ -1,9 +1,5 @@
 <h1 align="center">👨‍💻 Saroj Kumar Ranjan</h1>
-
-
-
 <h3 align="center">Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
-
 <div align="center">
   
   [![Profile Views](https://komarev.com/ghpvc/?username=sarojkumarranjan&label=Profile%20Views&color=brightgreen&style=for-the-badge)](https://github.com/SarojKumarRanjan)
@@ -14,19 +10,29 @@
 
 ---
 
+### 🚀 Featured Projects
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarojkumarranjan&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Saroj's GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarojkumarranjan&theme=radical&hide_border=true" alt="Saroj's GitHub Streak" height="170"/>
+
+#### 🎯 **Live Projects**
+
+| 🚀 **Project Name** | 🔗 **Live Demo** |
+|---------------------|------------------|
+| **Test Platform** | [test.sarojranjan.me](https://test.sarojranjan.me) |
+| **DrawPad - Digital Canvas** | [drawpad.sarojranjan.me](https://drawpad.sarojranjan.me) |
+| **Video Hub** | [video.sarojranjan.me](https://video.sarojranjan.me) |
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarojkumarranjan&layout=compact&theme=radical&hide_border=true" alt="Saroj's Top Languages"/>
+  
+  [![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio_Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sarojranjan.me)
+  
 </div>
 
 ---
 
 ### 🛠️ Tech Stack
-
 <div align="center">
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -36,6 +42,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -52,10 +59,6 @@
 
 ---
 
-
-
----
-
 <div align="center">
   
   ### 📫 Connect With Me
@@ -66,4 +69,3 @@
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.saroj2003@gmail.com)
   
 </div>
-
